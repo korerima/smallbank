@@ -3,12 +3,7 @@ go
 use bankmg
 go
 -------------------------------
---GROUP MEMBERS
---1,Samuel Kiros
---2,Natnael G/hiwot
---3,Naod Shimeles
--------------------------------
-
+--- Microsoft SQL
 -----------TABLES-------------- 
 
 ------ branch table
